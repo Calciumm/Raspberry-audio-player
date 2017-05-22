@@ -3,6 +3,8 @@
 ## Prerequisites
 * jdk8
 * nodejs
+   * @angular/cli
+   * ng
 * maven
 
 ## Build app and run
